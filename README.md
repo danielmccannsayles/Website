@@ -2,4 +2,4 @@
 OLD WEBSITE
 --------------
 
-A general repository containing the code and resources for my personal website
+A website I created in 2020 to show off my html and css skills.. NOT MY CURRENT WEBSITE
